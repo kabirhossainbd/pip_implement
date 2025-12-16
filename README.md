@@ -1,6 +1,13 @@
 # pip_view
 
-A new Flutter project.
+This is pip view implementation project
+# Flutter Version 3.38.4
+# Dart 3.10.3
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ebdbe47c-da54-435c-a435-b2917e6893c2" width="200" alt=""/>
+<img src="https://github.com/user-attachments/assets/6b6c1c38-48a1-4307-9dc7-129ad2503665" width="200" alt=""/>
+</div>
 
 ## Getting Started
 
