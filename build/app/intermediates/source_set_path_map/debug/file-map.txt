@@ -1,0 +1,16 @@
+com.example.pip_view.app-core-1.7.0-0 /Users/mdkabirhossain/.gradle/caches/transforms-3/010b79dbae0a8b74028aa5645158e6aa/transformed/core-1.7.0/res
+com.example.pip_view.app-jetified-annotation-experimental-1.1.0-1 /Users/mdkabirhossain/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.pip_view.app-jetified-window-1.0.0-beta04-2 /Users/mdkabirhossain/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.pip_view.app-jetified-exoplayer-core-2.18.7-3 /Users/mdkabirhossain/.gradle/caches/transforms-3/98211325724c98e4e72cf2943cba61bf/transformed/jetified-exoplayer-core-2.18.7/res
+com.example.pip_view.app-jetified-window-java-1.0.0-beta04-4 /Users/mdkabirhossain/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.pip_view.app-lifecycle-runtime-2.3.1-5 /Users/mdkabirhossain/.gradle/caches/transforms-3/db4b39695b36fb6bc4e9dc229c8d81d0/transformed/lifecycle-runtime-2.3.1/res
+com.example.pip_view.app-debug-6 /Users/mdkabirhossain/Documents/pip_view/android/app/src/debug/res
+com.example.pip_view.app-main-7 /Users/mdkabirhossain/Documents/pip_view/android/app/src/main/res
+com.example.pip_view.app-pngs-8 /Users/mdkabirhossain/Documents/pip_view/build/app/generated/res/pngs/debug
+com.example.pip_view.app-resValues-9 /Users/mdkabirhossain/Documents/pip_view/build/app/generated/res/resValues/debug
+com.example.pip_view.app-rs-10 /Users/mdkabirhossain/Documents/pip_view/build/app/generated/res/rs/debug
+com.example.pip_view.app-mergeDebugResources-11 /Users/mdkabirhossain/Documents/pip_view/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.pip_view.app-mergeDebugResources-12 /Users/mdkabirhossain/Documents/pip_view/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.pip_view.app-merged_res-13 /Users/mdkabirhossain/Documents/pip_view/build/app/intermediates/merged_res/debug
+com.example.pip_view.app-packaged_res-14 /Users/mdkabirhossain/Documents/pip_view/build/floating/intermediates/packaged_res/debug
+com.example.pip_view.app-packaged_res-15 /Users/mdkabirhossain/Documents/pip_view/build/video_player_android/intermediates/packaged_res/debug
